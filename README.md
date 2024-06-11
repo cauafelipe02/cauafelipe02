@@ -1,6 +1,6 @@
 ### Oláa! me chamo Cauã Felipe 📌
 - Técnico em Desenvolvimento de Sistemas.
-- Estudando python, html, css e javascript.
+- Estudando html, css e javascript.
 - Tentando passar na faculdade. 
 ##
 
